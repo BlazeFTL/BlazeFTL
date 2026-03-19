@@ -4,7 +4,6 @@
 
 
 <div align="center">
-  <h3>🔥 Specialist in Site Owner's Frustration & User Freedom 🔥</h3>
   <p><i>"If a site has a anti-adblock, a timer, or an annoying popup, I'm already there."</i></p>
 </div>
 
